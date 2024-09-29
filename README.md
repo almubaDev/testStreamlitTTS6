@@ -10,8 +10,8 @@ Bienvenido a la aplicación de análisis de datos de venta de coches en Estados 
 - **Análisis Exploratorio**: Selecciona qué gráficos deseas construir con controles simples, diseñados para usuarios sin conocimientos técnicos en programación.
 - **Interfaz Amigable**: Desarrollada con Streamlit, esta aplicación tiene una interfaz atractiva y sencilla de usar, ideal para entender mejor el mercado de coches usados en EE.UU.
 
-##![alt text](image.png)
-[Visita la app](https://teststreamlittts6.onrender.com/)
+## 🛜 Visita la app
+[Aquí](https://teststreamlittts6.onrender.com/)
 
 ## 📊 Funcionalidades
 
